@@ -1,0 +1,29 @@
+Rough schedule
+  5 minutes welcome 
+    #scode on https://techlife-columbus-slack.herokuapp.com/
+  5 minutes Pillar introduction
+  5 minutes ish talk from Brian King or other
+  15 minutes over-all retro from the perspective of the attendees
+     This should provide a great amount of feedback to all involved
+  5 minutes introduction to Lean coffee
+    http://leancoffee.org/
+    https://talkcoffeeto.me/howto
+  25 on use cases https://talkcoffeeto.me/d/QR7j8GJg4dT3R
+     5 minutes collecting input
+     3 minutes voting
+     5 minutes talking about top-scored
+     5 minutes talking about second from top-scored
+     5 minutes talking about third from top-scored
+  25 on Meetup flow / structure: https://talkcoffeeto.me/d/fJp6NfMNQm3NG
+     5 minutes collecting input
+     3 minutes voting
+     5 minutes talking about top-scored
+     5 minutes talking about second from top-scored
+     5 minutes talking about third from top-scored
+  25 on Meetup cadence: https://talkcoffeeto.me/d/qNr2B8qdrgJMN
+     5 minutes collecting input
+     3 minutes voting
+     5 minutes talking about top-scored
+     5 minutes talking about second from top-scored
+     5 minutes talking about third from top-scored
+
