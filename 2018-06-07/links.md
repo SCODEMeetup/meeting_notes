@@ -23,7 +23,7 @@ We will be using a few boards on [talkcoffeeto.me](https://talkcoffeeto.me/)
 1. [Group website](https://www.scodemeetup.org/)
 2. slack channel **#scode** of [techlifecolumbus](https://techlife-columbus-slack.herokuapp.com/)
 3. [SCODEMeetup](https://github.com/SCODEMeetup) on github
-  * Please pm Bill or Vijay - we will add you as a contributer
+  * Please pm Bill or Vijay - we will add you as a contributer, you can use the [Contact Us](https://www.scodemeetup.org/) form as well. 
   * We will have any meetup related content up here
   * Please consider posting your work here, choose the appropriate [license](https://help.github.com/articles/licensing-a-repository/) for your repository
 
