@@ -5,6 +5,8 @@ Thanks for attending today! We are going to cover a lot of material - this list 
 
 ## Links for todays meetup
 
+[Agenda](https://github.com/SCODEMeetup/meeting_notes/blob/master/2018-06-07/agenda.txt)
+
 We will be using a few boards on [talkcoffeeto.me](https://talkcoffeeto.me/)
 
 1. [Group use-case ideas](https://talkcoffeeto.me/d/QR7j8GJg4dT3R)
