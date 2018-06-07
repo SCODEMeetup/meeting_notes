@@ -9,6 +9,7 @@ Thanks for attending today! We are going to cover a lot of material - this list 
 
 We will be using a few boards on [talkcoffeeto.me](https://talkcoffeeto.me/)
 
+1. [Hackathon retro](https://talkcoffeeto.me/d/HHffMdQfqrd3T)
 1. [Group use-case ideas](https://talkcoffeeto.me/d/QR7j8GJg4dT3R)
   * Reference [Data stories](https://www.smartcolumbusos.com/data-stories)
 2. [Meeting structure](https://talkcoffeeto.me/d/fJp6NfMNQm3NG)
