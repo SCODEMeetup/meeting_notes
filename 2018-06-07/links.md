@@ -5,7 +5,9 @@ Thanks for attending today! We are going to cover a lot of material - this list 
 
 ## Links for todays meetup
 
-[Agenda](https://github.com/SCODEMeetup/meeting_notes/blob/master/2018-06-07/agenda.txt)
+1. [Agenda](https://github.com/SCODEMeetup/meeting_notes/blob/master/2018-06-07/agenda.txt)
+1. [Lean Coffee](http://leancoffee.org/)
+1. [TalkCoffeeToMe](https://talkcoffeeto.me/howto)
 
 We will be using a few boards on [talkcoffeeto.me](https://talkcoffeeto.me/)
 
