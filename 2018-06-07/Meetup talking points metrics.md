@@ -30,26 +30,26 @@ Total votes cast: 54
 
 # Group use-case ideas
 
-The following use-cases were submitted. Some use-cases ( all caps ) came from [Data Storeies](https://www.smartcolumbusos.com/data-stories) while others were contributed during the event.
+The following use-cases were submitted. Some use-cases ( all caps ) came from [Data Stories](https://www.smartcolumbusos.com/data-stories) while others were contributed during the event.
 
 Total votes cast: 53
 
 | Topic text | # votes |
 | ---------- | ------- |
-| FOOD ACCESS FOR ALL | 10 |
+| FOOD ACCESS FOR ALL [hackathon](https://drive.google.com/file/d/1fLrWN-AO9Ho3v-YvRejckuhDsX2Ri6K1/view?usp=sharing) , [smartcolumbusos.com](https://www.smartcolumbusos.com/data-stories/tracking-local-food-supplies-for-hungry-families)| 10 |
 | Multi-modal transportation | 9 |
-| ACCESSIBLE TRANSIT FOR ALL | 8 |
-| Finding Parking hotspots in Columbus | 5 |
+| ACCESSIBLE TRANSIT FOR ALL [hackathon](https://drive.google.com/file/d/1fLrWN-AO9Ho3v-YvRejckuhDsX2Ri6K1/view?usp=sharing), [smartcolumbusos.com](https://www.smartcolumbusos.com/data-stories/data-paves-the-way-to-help-older-adults-get-around) | 8 |
+| Finding Parking hotspots in Columbus hackathon [smartcolumbusos.com](https://www.smartcolumbusos.com/data-stories/parking-tickets-piling-up-use-data-to-determine-why)| 5 |
 | Hub to volunteer/find volunteers | 5 |
-| HEARTBEAT OF THE CITY | 4 |
+| HEARTBEAT OF THE CITY [hackathon](https://drive.google.com/file/d/1E782D_PmMEpK82_IpdA7OvSNWBf5z3vE/view?usp=sharing), smartcolumbusos.com | 4 |
 | Bicycle and Pedestrian Friendly Services | 1 |
-| BRIDGE HEIGHT INTELLIGENCE | 4 |
+| BRIDGE HEIGHT INTELLIGENCE [hackathon](https://drive.google.com/file/d/1RlEU1jUNeYudSQ2_TBCIypN_MohLhMwc/view?usp=sharing), smartcolumbusos.com| 4 |
 | Community Microgrid Participation | 2 |
 | Multi modal Commuting Service (Bike/Bus/Car2Go-like service) | 2 |
-| REST AREA PARKING AVAILABILITY | 1 |
+| REST AREA PARKING AVAILABILITY [hackathon](https://drive.google.com/file/d/1E7lHJRSJxVstEneyj4uEq-w-aCpy4mx9/view?usp=sharing), [smartcolumbusos.com](https://www.smartcolumbusos.com/data-stories/data-feed-can-help-truckers-find-safe-spot-to-rest)| 1 |
 | Deploying driverless vehicles | 1 |
 | Multi-city ( & multi-state) adoption and use-case exploration | 1 |
-| COLUMBUS PARKING SERVICES | 0 |
+| COLUMBUS PARKING SERVICES [hackathon](https://drive.google.com/file/d/1Kh5r6XKeXx8kH02oZPZNyxyH0R4w-GNL/view?usp=sharing), [smartcolumbusos.com](https://www.smartcolumbusos.com/data-stories/parking-tickets-piling-up-use-data-to-determine-why)| 0 |
 | Ride sharing hotspots | 0 |
 | Most charitable route (donating needed items drop off points) | 0 |
 | Realtime traffic | 0 |
