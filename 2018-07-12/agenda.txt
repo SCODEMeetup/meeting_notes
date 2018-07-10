@@ -1,0 +1,6 @@
+Rough schedule
+1. Introduction
+2. Description of the food access data story - https://www.smartcolumbusos.com/data-stories/tracking-local-food-supplies-for-hungry-families
+3. Introducing Personas and Use cases related to use food access.
+4. Introduction of available data sets related to the use case. https://www.smartcolumbusos.com/data
+5. Teams formation per skillset inventory- http://bit.ly/2L2P2pK
