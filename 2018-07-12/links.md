@@ -3,8 +3,9 @@
 ## Links for todays meetup
 
 1. [Agenda](https://github.com/SCODEMeetup/meeting_notes/blob/master/2018-07-12/agenda.txt)
-2. Reference [Data stories](https://www.smartcolumbusos.com/data-stories)
-3. [Skillset inventory](http://bit.ly/2L2P2pK)
+2. [Food access use case](https://www.smartcolumbusos.com/data-stories/tracking-local-food-supplies-for-hungry-families)
+3. [Data Sets](https://www.smartcolumbusos.com/data)
+4. [Skillset inventory](http://bit.ly/2L2P2pK)
 
 
 ## Organizational links
