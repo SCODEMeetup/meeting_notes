@@ -1,0 +1,50 @@
+Before we do mapping
+  We need to understand the conditions for different mobility impairments
+    We should look at nacto.org / resources for guidance
+
+Breakdown of privately owned sidewalks vs city of columbus sidewalks - how do we know?
+
+What is the impact of us collecting and highlighting the sidewalk conditions
+  - grant assistance programs to help with sidewalk repairs
+  - So, once a sidewalk is constructed the owner of the property is ultimately responsible for repairs. They could receive a bill from the city...
+
+Can we collect information in such a way that we tag, for instance, a corner / section, that is not a candidate for traversal by a wheelchair. If we collect granular data available could this cause issues?
+
+safe routes to school
+things we could help raise awareness / priority of need
+
+aarp has a walk audit toolkit - https://www.aarp.org/livable-communities/getting-around/info-2014/aarp-walk-audit-tool-kit.html
+
+columbus advisory committee on disability issues
+  - https://www.columbus.gov/ada/cacdi/
+
+https://nacto.org/
+
+Could we make the information our application collects about hazards available to openstreetmap?
+
+app - osmamd?
+
+How do we handle the non-technical user. What if Karen does not have an app or has issues with data entry etc. Could we do something like an Alexa voice app to enter data ( capture location etc to enrich ), a button that someone could push on their wheelchair that somehow. Some kind of embedded computer with a button, batter and specific purpose ( think arduino or esp32 etc ) with gps tracking. This just collects "something not right here" with gps coords.
+
+areas with no sidewalks and people with wheelchairs and such
+
+Is there an opportunity for interop with the multi-modal transportation application / use case. For instance could we work together to have data collection ( button, there is an obstacle ) and/or collect data from a community perspective which can then feed into this application for later use. EG handicap routing and route people around known issues.
+
+What is our mission statement / objective for this project?
+  Are we looking for an app to help route people around obstacles?
+  
+
+How could we leverage local community boards to farm out information gathering?
+
+https://www.columbus.gov/publicservice/traffic-management/Complete-Streets/
+http://www.morpc.org/tool-resource/complete-streets/
+  These are essentially policies by cities. What defines a complete street?
+
+How do we prevent the data collected from going stale? Is data from 6 months ago still relevant? how complete is the data collected for a given area etc
+
+https://sleepy-shelf-47820.herokuapp.com/
+
+For the data we have on sidewalks, what is the center line? If you are mapping the physical location of an identification and mapping it against morpc / other data we need a way to make sure the location attribute matches. Centerline is attached to the street. We need more clarity ;)
+
+https://apps.morpc.org/sidewalks/
+
