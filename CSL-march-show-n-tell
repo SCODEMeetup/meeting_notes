@@ -1,0 +1,66 @@
+### Meeting
+13th March
+### Attendees 
+Mihir Amin, Bill Schwanitz, Nikki Stead (Donatos), Jake Clark, Jesse Mathews, Mackenzie King, Delbert Legg, Melissa Boyer, Vijay Yadav
+
+#### Notes
+1. End user - Associates working for Donatos can use this application 
+2. Comments on existing functionlality 
+
+3. Next priorities for Search by zip code
+keywords for the name of the services
+
+one location can have differencet services
+
+Add the services may be in Info dialog
+  Services differes from hours as well
+
+Provide a filter on hierarchy
+
+Data limitation
+tags for the locations are not available
+text searches
+
+
+Usecases
+
+zip (low) - 
+list of services, 
+the info - hours and services information
+Searching next for servcice name and locations
+
+
+Public transit information (high)
+- which bust stops are nearest to memost used transportation mode
+- 
+- COTA data for bus-stops
+- adding public transaportation information about the bust route etc
+	- nearest busstop and route
+any other data sets we can use, cota bus locations
+
+next iteration 
+1. current location and mapping my COTA route
+
+https://ckan.smartcolumbusos.com/dataset/cota-transit-stops/resource/4fe72e8a-610a-464a-80f4-22f31ff265e8
+
+- attach with MMT app
+
+
+Pilot
+ - 
+ costing meeanwhile
+ 
+ 
+ adding into donatos app
+ - 
+ alpha -may
+ beta - june
+ 
+Nikki followup with Kevin, 
+- any chance for our team to get look into their product
+
+Send info to nikki
+SCODE ticket - Mihir
+ 
+ 
+ 
