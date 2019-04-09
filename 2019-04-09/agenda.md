@@ -1,7 +1,7 @@
 ## Rough agenda
 
 1. 6:00 - 6:15 - Networking + Introduction + :hamburger: :beer:
-1. 6:15 - 6:30 - [Rob Keefer](https://www.linkedin.com/in/robkeefer/) Director of Data Science at Illumination Works
+1. 6:15 - 6:30 - [Dr. Rob Keefer](https://www.linkedin.com/in/robkeefer/) Director of Data Science at Illumination Works
 1. 6:30 - 6:45 - [Mackenzie King](https://www.linkedin.com/in/mackenzie-king-999225b/) State of the SCOS.
 1. 6:45 - 7:00 - Ideation Recap / User-Centered Design
    * [Data Story](https://www.smartcolumbusos.com/data-stories/data-paves-the-way-to-help-older-adults-get-around)
@@ -19,3 +19,4 @@
    * [Dense and Vulnerable Senior Populations](https://ckan.smartcolumbusos.com/dataset/dense-and-vulnerable-senior-populations)
    * [Sidewalk Inventory](https://ckan.smartcolumbusos.com/dataset/sidewalk-inventory1)
    * [Disability Status of Grandparents responsible for their grandchildren - Central Ohio 2016](https://ckan.smartcolumbusos.com/dataset/disability-status-of-grandparents-responsible-for-their-grandchildren-central-ohio-2016)
+1. 8:00 - 9:00 - Our Host, [Donald Cavin](https://www.linkedin.com/in/donaldcavin/), can stay late for more brainstorming.
