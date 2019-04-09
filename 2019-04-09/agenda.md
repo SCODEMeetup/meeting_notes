@@ -9,7 +9,12 @@
    * [Age Friendly Columbus](https://agefriendlycolumbus.org/) & [Ohio Department of Aging](https://www.aging.ohio.gov/):link:
 1. 7:00 - 7:15 - Problem Validation / Market Sizing
    * [Targeting Repo](https://github.com/SCODEMeetup/targeting)
-     * How many counties in Central Ohio? (7, 11, 12, 15)
+   * How many counties are in Central Ohio?
+     * 7 [MORPC](https://ckan.smartcolumbusos.com/dataset/7-county-region1)
+     * 8 [Ohio Department of Aging](https://www.aging.ohio.gov/findservices)
+     * 11 [Columbus 2020](https://columbusregion.com/market-research/county-profiles/)
+     * 12 [United States Census Bureau](https://ckan.smartcolumbusos.com/dataset/census-tracts-20101)
+     * 15 [MORPC](https://ckan.smartcolumbusos.com/dataset/15-county-region1)
 1. 7:15 - 8:00 - Dataset Analysis
    * [Dense and Vulnerable Senior Populations](https://ckan.smartcolumbusos.com/dataset/dense-and-vulnerable-senior-populations)
    * [Sidewalk Inventory](https://ckan.smartcolumbusos.com/dataset/sidewalk-inventory1)
